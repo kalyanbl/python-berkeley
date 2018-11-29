@@ -105,6 +105,9 @@ And then look here for inspiration:
  - [A list of interesting IPython notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
  - [Working with Matplotlib](https://preinventedwheel.com/easy-python-time-series-plots-with-matplotlib/Working with Matplotlib). This site has a couple other cool references on [data journalism](https://preinventedwheel.com/mobile-innovation-is-saving-lives/) and [SQL](https://preinventedwheel.com/3-basic-sql-queries-everyone-needs-to-know/).
 
+#### Online Python Tutorials and Training Course
+- Mindmajix providing best python trainings [Python Tutorials](https://mindmajix.com/python-tutorial), [Python training](https://mindmajix.com/python-training)
+
 ### At UC Berkeley
 UC Berkeley has a lot of great resources for learning scientific computing and
 data science. There are classes, tutorials, reading groups, institutes, and
